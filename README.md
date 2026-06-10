@@ -1,16 +1,41 @@
-## Hi there 👋
+# Kevin Dickinson
 
-<!--
-**RIPPERONInCHEEZ/RIPPERONINCHEEZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building Monolith Workbench.
 
-Here are some ideas to get you started:
+I’m interested in local AI, Linux, homelabs, self-hosting, and building useful things from curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+
+### Monolith Workbench
+
+Monolith is a local AI workbench focused on practical model testing and evaluation.
+
+It started as a simple dashboard for tracking model runs, browser tabs, logs, and notes while testing local models. It is now becoming a more complete system for:
+
+- Chat
+- Model tracking
+- Prompt libraries
+- Evaluation workflows
+- Context scaling
+- VRAM and speed metrics
+- Run history
+- Local model comparison
+
+The goal is simple:
+
+> Figure out what normal people can actually run on consumer hardware.
+
+## Interests
+
+- Local AI
+- Linux
+- Homelabs
+- Docker
+- Self-hosting
+- Open source
+- Practical model evaluation
+
+## Links
+
+- X / Twitter: https://x.com/cheeez42
+- Website: Coming soon
