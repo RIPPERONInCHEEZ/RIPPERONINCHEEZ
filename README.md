@@ -6,7 +6,7 @@ I’m interested in local AI, Linux, homelabs, self-hosting, and building useful
 
 ## Current Project
 
-### Monolith Workbench
+### Monolith
 
 Monolith is a local AI workbench focused on practical model testing and evaluation.
 
