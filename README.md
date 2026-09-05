@@ -19,4 +19,4 @@ The goal is simple:
 ## Links
 
 - X / Twitter: https://x.com/cheeez42
-- Website: https://wumbocore.com
+- Website: https://wumbolabs.dev
